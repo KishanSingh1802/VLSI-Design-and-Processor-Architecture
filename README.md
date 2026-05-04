@@ -1,5 +1,19 @@
 # VLSI Design & Digital System Architecture 
 
+**COMPANY**: CODTECH IT SOLUTIONS
+
+**NAME**: KISHAN SINGH
+
+**INTERN ID**: CTIS7820
+
+**DOMAIN**: VLSI DESIGN
+
+**DURATION**: 4 WEEKS
+
+**MENTOR**: NEELA SANTOSH
+
+---
+
 This repository contains the RTL designs developed during my VLSI Internship at Codtech IT Solutions. The project focuses on designing, simulating, and verifying core digital components using Verilog and Xilinx Vivado.
 
 ## 🛠️ Projects Included
