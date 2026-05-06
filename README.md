@@ -41,9 +41,9 @@ This repository showcases RTL designs developed during my VLSI Internship at **C
 *   **Goal**: Maximizing instruction throughput by overlapping execution stages.
 *   **Visual Proof**:
     *   **RTL Schematic**: Demonstrates the four-stage register-based pipelining.
-    ![Processor Schematic](Internship-Projects-ECE/pipelined_processor/processor_schematic.png)
+    ![Processor Schematic](Internship-Projects-ECE/Pipelined_Processor/processor_schematic.png)
     *   **Simulation Waveform**: Verified the instruction flow through the pipeline.
-    ![Processor Waveform](Internship-Projects-ECE/PIPELINED_PROCESSOR/processor_waveform.png)
+    ![Processor Waveform](Internship-Projects-ECE/Pipelined_Processor/processor_waveform.png)
 
 ---
 
